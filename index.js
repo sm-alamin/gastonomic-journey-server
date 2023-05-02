@@ -14,10 +14,15 @@ app.get('/', (req, res) => {
 app.get('/chef-info', (req, res) => {
     res.send(chef_info);
 })
+app.get('/chef-info/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedChef = chef_info.find(chef => chef.id == id);
+  res.send(selectedChef)
+})
 app.get('/recipe-info/:id', (req, res) => {
   const id = req.params.id;
-  const selectedChef = recipe.filter(chef => chef.id === id);
-  res.send(selectedChef)
+  const selectedRecipe = recipe.filter(recipe => recipe.id === id);
+  res.send(selectedRecipe)
 })
 app.listen(port, () => {
   console.log(`chef recipe hunter is running on port ${port}`)
