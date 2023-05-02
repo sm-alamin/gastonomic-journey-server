@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "number_of_recipes": 50,
+        "likes": 200
+    },
+    {
+        "id": 2,
+        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
+        "name": "Jane Doe",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 100
+    },
+    {
+        "id": 3,
+        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
+        "name": "Mark Johnson",
+        "years_of_experience": 8,
+        "number_of_recipes": 40,
+        "likes": 150
+    },
+    {
+        "id": 4,
+        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
+        "name": "Emily Lee",
+        "years_of_experience": 3,
+        "number_of_recipes": 20,
+        "likes": 80
+    },
+    {
+        "id": 5,
+        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
+        "name": "David Chen",
+        "years_of_experience": 12,
+        "number_of_recipes": 60,
+        "likes": 250
+    },
+    {
+        "id": 6,
+        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
+        "name": "Linda Kim",
+        "years_of_experience": 6,
+        "number_of_recipes": 35,
+        "likes": 120
+    }
+]
