@@ -1,56 +1,62 @@
 [
     {
         "id": 1,
-        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
-        "name": "John Smith",
+        "picture_url": "https://images.unsplash.com/flagged/photo-1561350117-501b4661f8d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Amit Patel",
         "years_of_experience": 10,
         "number_of_recipes": 50,
         "likes": 200,
+        "department": "Senior Chef",
         "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 2,
-        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
-        "name": "Jane Doe",
-        "years_of_experience": 5,
-        "number_of_recipes": 30,
+        "picture_url": "https://images.unsplash.com/photo-1592332297790-c7c27c38ecb0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "name": "Sanjay Gupta",
+        "years_of_experience": 2,
+        "number_of_recipes": 20,
         "likes": 100,
+        "department": "Junior Chef",
         "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 3,
-        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
-        "name": "Mark Johnson",
+        "picture_url": "https://plus.unsplash.com/premium_photo-1664298783155-7cd0c9a5222f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "name": "Rohit Singh",
         "years_of_experience": 8,
         "number_of_recipes": 40,
         "likes": 150,
+        "department": "Senior Chef",
         "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 4,
-        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
-        "name": "Emily Lee",
+        "picture_url": "https://images.unsplash.com/photo-1620641606872-f9641b65adab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Rajesh Kumar",
         "years_of_experience": 3,
         "number_of_recipes": 20,
         "likes": 80,
+        "department": "Senior Chef",
         "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 5,
-        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
-        "name": "David Chen",
+        "picture_url": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+        "name": "Akash Sharma",
         "years_of_experience": 12,
         "number_of_recipes": 60,
         "likes": 250,
+        "department": "Senior Chef",
         "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 6,
-        "picture_url": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1683004159~exp=1683004759~hmac=da536361e7318c6071aa8f6992942e8092f977c223adcccd0301745d7cd6d18f",
-        "name": "Linda Kim",
-        "years_of_experience": 6,
-        "number_of_recipes": 35,
-        "likes": 120,
+        "picture_url": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Abdur Rahman",
+        "years_of_experience": 2,
+        "number_of_recipes": 15,
+        "likes": 20,
+        "department": "Junior Chef",
         "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     }
 ]
