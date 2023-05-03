@@ -5,7 +5,8 @@
         "name": "John Smith",
         "years_of_experience": 10,
         "number_of_recipes": 50,
-        "likes": 200
+        "likes": 200,
+        "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 2,
@@ -13,7 +14,8 @@
         "name": "Jane Doe",
         "years_of_experience": 5,
         "number_of_recipes": 30,
-        "likes": 100
+        "likes": 100,
+        "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "name": "Mark Johnson",
         "years_of_experience": 8,
         "number_of_recipes": 40,
-        "likes": 150
+        "likes": 150,
+        "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "name": "Emily Lee",
         "years_of_experience": 3,
         "number_of_recipes": 20,
-        "likes": 80
+        "likes": 80,
+        "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "name": "David Chen",
         "years_of_experience": 12,
         "number_of_recipes": 60,
-        "likes": 250
+        "likes": 250,
+        "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     },
     {
         "id": 6,
@@ -45,6 +50,7 @@
         "name": "Linda Kim",
         "years_of_experience": 6,
         "number_of_recipes": 35,
-        "likes": 120
+        "likes": 120,
+        "bio": "I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness."
     }
 ]
