@@ -1,28 +1,33 @@
 [
   {
-    "id": "1",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
-    "photo": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?w=740&t=st=1683080002~exp=1683080602~hmac=c2bd55e636949a20110f1e7fb4d92177da7b16623f1558c80a6540b70dc22186"
-  },
+  "id": "1",
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.00,
+  "photo": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?w=740&t=st=1683080002~exp=1683080602~hmac=c2bd55e636949a20110f1e7fb4d92177da7b16623f1558c80a6540b70dc22186"
+},
   {
     "id": "2",
     "name": "Butter Chicken",
@@ -79,7 +84,7 @@
       "Add diced tomatoes, water, and chickpeas. Stir well and bring to a simmer. Cook for 15-20 minutes, stirring occasionally, until the sauce has thickened and the chickpeas are tender.",
       "Stir in lemon juice and garnish with chopped cilantro. Serve with rice, naan bread, or roti."
     ],
-    "rating": 4.7,
+    "rating": 3.7,
     "photo": "https://img.freepik.com/free-photo/vertical-shot-chickpea-curry-chana-masala-with-lime-bowl-white-surf_181624-31989.jpg?w=740&t=st=1683080304~exp=1683080904~hmac=56a88a6750beba713f18cc875550672bab7b86d39afcb5f0b6c4aac3e318b067"
   },
   {
@@ -331,26 +336,31 @@
   },
   {
     "id": "5",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/closeup-shot-deliciously-prepared-chicken-served-with-onions-chili-sauce_181624-61705.jpg?w=740&t=st=1683080002~exp=1683080602~hmac=c2bd55e636949a20110f1e7fb4d92177da7b16623f1558c80a6540b70dc22186"
   },
   {
@@ -388,50 +398,60 @@
   },
   {
     "id": "1",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/delicious-chicken-table_144627-8758.jpg?w=740&t=st=1683080707~exp=1683081307~hmac=c24be934ee9bc8b605fb75b067ca017d6097265e065e2377af78316374c8547c"
   },
   {
     "id": "2",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10657.jpg?w=740&t=st=1683080734~exp=1683081334~hmac=937aabdbe71f82fccc1f3883be4d260c0e4044db8fb27bc3357152dfe28160d4"
   },
   {
@@ -480,74 +500,89 @@
   },
   {
     "id": "4",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/side-view-chicken-kebab-with-grilled-hot-green-pepper-tomato-pickled-cabbage-rice-pita_141793-4837.jpg?w=740&t=st=1683080768~exp=1683081368~hmac=32bfc2c188a07fc73251c3782cccebd0b6585146aecc588884e9cd5654e62cd5"
   },
   {
-    "id": "5",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
+    "id": "1",
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10654.jpg?w=740&t=st=1683080795~exp=1683081395~hmac=93f56668db8c73afeea05e26ae3f4fc13f1a36789c7441c14d4336e840b2abb6"
   },
   {
-    "id": "6",
-    "name": "Tandoori Chicken",
-    "ingredients": [
-      "1 large onion, quartered",
-      "1 piece ginger, peeled",
-      "Juice of 1 lemon",
-      "3 cloves garlic",
-      "1/4 c. neutral oil",
-      "1 c. (8 oz.) plain whole-milk yogurt ",
-      "2 tsp. kosher salt, plus more",
-      "3 lb. skinless, boneless chicken thighs",
-      "Fresh cilantro and lime wedges, for serving"
-    ],
-    "method": [
-      "In a blender or food processor, blend onion, ginger, garlic, lemon juice, and oil until smooth. Pour into a large bowl. Add yogurt, salt, and 1/4 cup tandoori masala and mix until combined.",
-      "Pat chicken dry with paper towels; season with salt. Using your hands, thoroughly rub marinade into chicken. Cover bowl with plastic wrap and refrigerate at least 8 hours or up to 24.",
-      "Preheat oven to 400˚. Set a wire rack in a large sheet pan. Arrange chicken on rack (no need to let excess marinade drip off).",
-      "Bake chicken until cooked through and an instant-read thermometer inserted into thickest part registers 165°, about 30 minutes. Heat broiler on low and broil until lightly charred, about 5 minutes.",
-      "Transfer chicken to a platter. Top with cilantro and serve with lime wedges alongside."
-    ],
-    "rating": 4.5,
+    "id": "1",
+  "name": "Tandoori Chicken",
+  "ingredients": [
+    "1 lb. boneless, skinless chicken thighs",
+    "1 cup plain yogurt",
+    "2 tbsp. lemon juice",
+    "1 tbsp. ginger paste",
+    "1 tbsp. garlic paste",
+    "1 tsp. ground cumin",
+    "1 tsp. ground coriander",
+    "1 tsp. paprika",
+    "1/2 tsp. turmeric",
+    "1/2 tsp. cayenne pepper",
+    "1/2 tsp. salt",
+    "2 tbsp. vegetable oil",
+    "1/4 cup chopped fresh cilantro",
+    "Lemon wedges, for serving"
+  ],
+  "method": [
+    "In a large bowl, whisk together yogurt, lemon juice, ginger paste, garlic paste, cumin, coriander, paprika, turmeric, cayenne pepper, and salt.",
+    "Add chicken pieces and toss to coat. Cover bowl with plastic wrap and refrigerate for at least 1 hour, or up to 8 hours.",
+    "Preheat oven to 425°F. Line a baking sheet with aluminum foil and brush with vegetable oil.",
+    "Remove chicken from marinade and shake off excess. Place chicken on the prepared baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Garnish with chopped cilantro and serve with lemon wedges."
+  ],
+  "rating": 4.5,
     "photo": "https://img.freepik.com/free-photo/baked-chicken-wings-asian-style-tomatoes-sauce-plate_2829-10654.jpg?w=740&t=st=1683080795~exp=1683081395~hmac=93f56668db8c73afeea05e26ae3f4fc13f1a36789c7441c14d4336e840b2abb6"
   }
 ]
